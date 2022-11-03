@@ -1,0 +1,19 @@
+{
+  "name": "iodine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run --browser chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.7.0"
+  },
+  "devDependencies": {
+    "cypress-iframe": "^1.0.1"
+  }
+}
